@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Dhoom",
+    "universe": "bollywood",
+    "genre": "action",
+    "year": 2000,
+    "rating": 4,
+    "revenue": 250,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk3MDNhODEtMWYyMC00NmVjLTg3NzgtNjI1MzA4ZmVhMjE2XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dhoom 2",
+    "universe": "bollywood",
+    "genre": "action",
+    "year": 2005,
+    "rating": 3,
+    "revenue": 350,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Dhoom_2_%282006_film%29_poster.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dhoom 3",
+    "universe": "bollywood",
+    "genre": "action",
+    "year": 2010,
+    "rating": 4,
+    "revenue": 450,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2E0NWJlNzYtZjFlZS00NDU4LWI0OTAtYTZlYjc2MmQ2MjdmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Raaz",
+    "universe": "bollywood",
+    "genre": "drama",
+    "year": 2015,
+    "rating": 3,
+    "revenue": 550,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2JkYTJjODAtZjYwZS00NTU0LTg1YjAtYzY4YTYxN2VkMTk3XkEyXkFqcGdeQXVyMzc0NzU5MTc@._V1_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "PK",
+    "universe": "bollywood",
+    "genre": "god",
+    "year": 2017,
+    "rating": 4,
+    "revenue": 350,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NzIzMzEyOF5BMl5BanBnXkFtZTgwMjgzMTg0MzE@._V1_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "I",
+    "universe": "tollywood",
+    "genre": "drama",
+    "year": 2018,
+    "rating": 3,
+    "revenue": 200,
+    "poster": "https://s3.ap-southeast-1.amazonaws.com/cdn.deccanchronicle.com/sites/default/files/I-POSTER.jpg"
+  },
+  {
+    "id": 7,
+    "name": "KGF",
+    "universe": "tollywood",
+    "genre": "action",
+    "year": 2019,
+    "rating": 4,
+    "revenue": 300,
+    "poster": "https://rukminim1.flixcart.com/image/416/416/l3bx5e80/poster/p/x/m/small-kgf-poster-kgf-yash-movie-poster-for-room-kgf-chapter-2-original-imageh8qchumcz8k.jpeg?q=70"
+  },
+  {
+    "id": 8,
+    "name": "KGF 2",
+    "universe": "tollywood",
+    "genre": "action",
+    "year": 2022,
+    "rating": 4,
+    "revenue": 400,
+    "poster": "https://rukminim1.flixcart.com/image/416/416/l3bx5e80/poster/h/y/x/small-kgf-poster-kgf-yash-movie-poster-for-room-kgf-chapter-2-original-imageh8rqar2dzgg.jpeg?q=70"
+  },
+  {
+    "id": 9,
+    "name": "ABCD",
+    "universe": "bollywood",
+    "genre": "dance",
+    "year": 2010,
+    "rating": 3,
+    "revenue": 500,
+    "poster": "https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/74637315.jpg"
+  },
+  {
+    "id": 10,
+    "name": "ABCD 2",
+    "universe": "bollywood",
+    "genre": "dance",
+    "year": 2018,
+    "rating": 3,
+    "revenue": 450,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/51/ABCD_2_poster.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Vivah",
+    "universe": "bollywood",
+    "genre": "drama",
+    "year": 2009,
+    "rating": 3,
+    "revenue": 150,
+    "poster": "https://pbs.twimg.com/media/Emb3g4TU0AACwXd.jpg:large"
+  },
+  {
+    "id": 12,
+    "name": "Boss",
+    "universe": "bollywood",
+    "genre": "action",
+    "year": 2014,
+    "rating": 2,
+    "revenue": 275,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQyNTQyYjItMGYyOC00MWFiLWE5ZGUtOWUzM2M4ZGYxYjY2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Kick",
+    "universe": "bollywood",
+    "genre": "action",
+    "year": 2018,
+    "rating": 3,
+    "revenue": 225,
+    "poster": "https://www.pinkvilla.com/files/styles/large/public/whatsapp_image_2019-07-25_at_18.31.42.jpeg?itok=f83oMXvJ"
+  },
+  {
+    "id": 14,
+    "name": "Krish",
+    "universe": "bollywood",
+    "genre": "superhero",
+    "year": 2016,
+    "rating": 2,
+    "revenue": 200,
+    "poster": "https://cdn.cinematerial.com/p/297x/vxr9aixk/krrish-indian-movie-poster-md.jpg?v=1456204530"
+  },
+  {
+    "id": 15,
+    "name": "Krish 3",
+    "universe": "bollywood",
+    "genre": "superhero",
+    "year": 2020,
+    "rating": 3,
+    "revenue": 300,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/28/Krrish_3_%282013_film%29_poster.jpg"
+  },
+  {
+    "id": 16,
+    "name": "OMG",
+    "universe": "bollywood",
+    "genre": "god",
+    "year": 2015,
+    "rating": 3,
+    "revenue": 321,
+    "poster": "https://www.filmibeat.com/ph-big/2012/08/oh-my-god_13455282981.jpg"
+  },
+  {
+    "id": 17,
+    "name": "OMG 2",
+    "universe": "bollywood",
+    "genre": "god",
+    "year": 2015,
+    "rating": 3,
+    "revenue": 234,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmJmMTI5NGYtMjc2Ni00ZjFlLTk0ZTUtNDE0NGJkYmYxYzcwXkEyXkFqcGdeQXVyMjQ2MDI5ODE@._V1_FMjpg_UX1000_.jpg"
+  }
+]
